@@ -1,5 +1,0 @@
-A simple Python script that checks if a password is strong based on:
-- Minimum length
-- Contains numbers
-- Contains uppercase/lowercase letters
-- Contains special characters
